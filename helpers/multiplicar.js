@@ -34,3 +34,8 @@ const crearArchivo = async (base = 5, listar = false, hasta = 10) => {
 module.exports = {
     crearArchivo
 };
+
+//Para preparar el repositorio ( git init)
+//Para añadir el archivo al repositorio (git add .)
+//Para crear nuestro primer commit (git commit -m "primer commit")
+//Para devolver el proyecto a su original es como un control +z ( git checkout --.)
